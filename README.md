@@ -29,8 +29,8 @@ visiting that repo!
 
 ## 🎙️ Commands
 
-- [`init`](docs/init.md): Generate an npm wasm pkg from a rustwasm crate
-- [`build`](docs/build.md): Generate an npm wasm pkg from a rustwasm crate
+- [`init`](docs/src/init.md): Generate an npm wasm pkg from a rustwasm crate
+- [`build`](docs/src/build.md): Generate an npm wasm pkg from a rustwasm crate
 - [`pack` and `publish`](docs/pack-and-publish.md): Create a tarball of your rustwasm pkg and/or publish to a registry
 
 ## 📝 Logging
